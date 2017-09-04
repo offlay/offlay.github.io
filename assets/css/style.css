@@ -253,3 +253,9 @@ ul.menu li {
     .selected a, .selected a:visited {
         color: #1abc9c;
     }
+
+#bgheaderwrap {
+  margin: 0 auto;
+  background: rgba(161,21,207, 0.5);
+
+}
