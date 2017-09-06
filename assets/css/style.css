@@ -266,3 +266,8 @@ cursor:pointer;
 
 #toTop img {
 width:100%;
+}
+
+.sticky {
+  background-color: rgba(81, 81, 81, 0.9);
+}
